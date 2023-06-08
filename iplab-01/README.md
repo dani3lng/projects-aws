@@ -20,7 +20,7 @@ This lab follows the Architecting Fundamentals module, which focuses on the core
 
 **Architecture**
 
-(https://github.com/dani3lng/project-aws/blob/main/images/lab-01.png)
+![troubleshooting](https://github.com/dani3lng/project-aws/blob/main/images/lab-01.png)
 
 # Notes
 
