@@ -39,7 +39,7 @@ Task 1.5: Create and use widgets
 **Task 2: Create an Amazon S3 bucket using AWS Management Console**
 - Search S3
 - Create bucket
-- S3 bucket names must be globally unique and DNS compliant [Bucket naming rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
+- S3 bucket names must be globally unique and DNS compliant ([Bucket naming rules])(https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
 - Verify AWS region matches
 
 **Task 3: Upload an object into the Amazon S3 bucket using the S3 console**
