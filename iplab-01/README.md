@@ -30,6 +30,7 @@ This lab follows the Architecting Fundamentals module, which focuses on the core
     Task 1.3: Add and remove favorites
     Task 1.4: Open a console for a service
     Task 1.5: Create and use widgets
+    
 **Task 2: Create an Amazon S3 bucket using AWS Management Console**
 - Search S3
 - Create bucket
