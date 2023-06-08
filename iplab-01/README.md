@@ -20,7 +20,7 @@ This lab follows the Architecting Fundamentals module, which focuses on the core
 
 **Scenario**
 
-![scenario] (https://github.com/dani3lng/project-aws/blob/main/images/lab-01.png)
+![scenario] (images/lab-01.png)
 # Notes
 
 **Task 1: Explore and configure AWS Management Console**
