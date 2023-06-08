@@ -1,2 +1,3 @@
-# project-aws
-Collection of my projects using aws cloud services
+# AWS Cloud Projects
+
+A portfolio of my projects using aws cloud services
