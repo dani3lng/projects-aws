@@ -26,9 +26,13 @@ This lab follows the Architecting Fundamentals module, which focuses on the core
 **Task 1: Explore and configure AWS Management Console**
 
 Task 1.1: Choose an AWS region to change the default region is in the general settings page
+
 Task 1.2: Unified search in the AWS Management Console
+
 Task 1.3: Add and remove favorites
+
 Task 1.4: Open a console for a service
+
 Task 1.5: Create and use widgets
 
 **Task 2: Create an Amazon S3 bucket using AWS Management Console**
@@ -43,9 +47,9 @@ Task 1.5: Create and use widgets
 **Task 4: Create an Amazon S3 bucket and upload an object using AWS CLI**
 
 Task 4.1: Create a connection to the command host using the session manager
-Configure an Amazon EC2 instance
-Connect to the EC2 instance and use the session manager to open the command host
-Command “aws s3 [arg]”
-Command “aws s3 ls” lists all of the buckets owned by user
-Command “aws s3 mb s3://labclibucket-xxxxx” creates a bucket
-Command “aws s3 cp” copies a single file to the specified bucket
+- Configure an Amazon EC2 instance
+- Connect to the EC2 instance and use the session manager to open the command host
+- Command “aws s3 [arg]”
+- Command “aws s3 ls” lists all of the buckets owned by user
+- Command “aws s3 mb s3://labclibucket-xxxxx” creates a bucket
+- Command “aws s3 cp” copies a single file to the specified bucket
