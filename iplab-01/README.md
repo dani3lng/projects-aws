@@ -35,8 +35,10 @@ This lab follows the Architecting Fundamentals module, which focuses on the core
 - Create bucket
 - S3 bucket names must be globally unique and DNS compliant (Bucket naming rules)
 - Verify AWS region matches
+
 **Task 3: Upload an object into the Amazon S3 bucket using the S3 console**
-Select the appropriate bucket and upload the object
+- Select the appropriate bucket and upload the object
+
 **Task 4: Create an Amazon S3 bucket and upload an object using AWS CLI**
 Task 4.1: Create a connection to the command host using the session manager
 Configure an Amazon EC2 instance
