@@ -58,3 +58,4 @@ Task 4.1: Create a connection to the command host using the session manager
 - Command “aws s3 ls” lists all of the buckets owned by user
 - Command “aws s3 mb s3://labclibucket-xxxxx” creates a bucket
 - Command “aws s3 cp” copies a single file to the specified bucket
+![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-06.png)
