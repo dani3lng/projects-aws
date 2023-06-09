@@ -48,7 +48,6 @@ Task 1.5: Create and use widgets
 - Select the appropriate bucket and upload the object
 ![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-04.png)
 ![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-05.png)
-
 **Task 4: Create an Amazon S3 bucket and upload an object using AWS CLI**
 
 Task 4.1: Create a connection to the command host using the session manager
