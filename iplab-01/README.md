@@ -38,13 +38,16 @@ Task 1.5: Create and use widgets
 
 **Task 2: Create an Amazon S3 bucket using AWS Management Console**
 - Search S3
-![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-03.png)
+![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-02.png)
 - Create bucket
+![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-03.png)
 - S3 bucket names must be globally unique and DNS compliant ([Bucket naming rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html))
 - Verify AWS region matches
 
 **Task 3: Upload an object into the Amazon S3 bucket using the S3 console**
 - Select the appropriate bucket and upload the object
+![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-04.png)
+![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-05.png)
 
 **Task 4: Create an Amazon S3 bucket and upload an object using AWS CLI**
 
