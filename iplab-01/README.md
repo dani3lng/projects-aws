@@ -40,7 +40,7 @@ Task 1.5: Create and use widgets
 - Search S3
 ![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-02.png)
 - Create bucket
-![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-03.jpg)
+![picture](https://github.com/dani3lng/project-aws/blob/main/iplab-01/images/lab-03.png)
 - S3 bucket names must be globally unique and DNS compliant ([Bucket naming rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html))
 - Verify AWS region matches
 
