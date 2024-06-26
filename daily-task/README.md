@@ -15,3 +15,6 @@ In this project, we'll be using PartyRock to develop a 'Daily Task Scheduler App
 ## Estimated Time & Cost
 - 15-20 minutes
 - Cost: Free
+
+## Step by Step
+1. 
