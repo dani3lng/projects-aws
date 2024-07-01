@@ -23,3 +23,6 @@ In this project, we'll be using PartyRock to develop a Daily Task Scheduler Appl
 4. Modify widgets as necessary
 ![picture](https://github.com/dani3lng/projects-aws/blob/262b7748fbb332866115d76c1f523695df661906/daily-task/images/Screenshot%202024-06-30%20at%2022.49.10.png)
 6. Make public and share application
+
+## Link to Application
+https://partyrock.aws/u/dani3lyg/oG6cBdJFT/Daily-Task-Scheduler
