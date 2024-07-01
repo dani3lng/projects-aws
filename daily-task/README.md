@@ -17,4 +17,7 @@ In this project, we'll be using PartyRock to develop a 'Daily Task Scheduler App
 - Cost: Free
 
 ## Step by Step
-1. 
+1. Create an account AWS PartyRock
+2. Provide detailed prompt about desired application
+3. Modify widgets as necessary
+4. Make public and share application
