@@ -14,7 +14,7 @@ In this project, we'll be using PartyRock to develop a Daily Task Scheduler Appl
 
 ## Estimated Time & Cost
 - 15-20 minutes
-- Cost: Free
+- Cost: Free (When using the AWS Free Tier)
 
 ## Step by Step
 1. Create an account AWS PartyRock
