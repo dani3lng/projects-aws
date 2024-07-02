@@ -25,11 +25,5 @@ In this project, we will be building an image labels generator, using Amazon Rek
 ![picture](https://github.com/dani3lng/projects-aws/blob/main/aws-rekognition/label-generator/images/a1.png)
 
 ## Step by Step
-1. Create an account AWS PartyRock
-2. Provide detailed prompt about desired application
-![picture](https://github.com/dani3lng/projects-aws/blob/main/hike-match/images/Screenshot%202024-06-30%20at%2022.47.55.png)
-4. Modify widgets as necessary
-![picture](https://github.com/dani3lng/projects-aws/blob/main/hike-match/images/Screenshot%202024-06-30%20at%2022.49.28.png)
-6. Make public and share application
 
 ## Link to Application
