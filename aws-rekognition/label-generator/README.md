@@ -1,4 +1,4 @@
-### Daily Task Scheduler Application
+### Image Labels Generator
 
 ## Services Used
 - Amazon S3: For storing the images in the process of generating labels.
@@ -21,6 +21,9 @@ In this project, we will be building an image labels generator, using Amazon Rek
 - 20-30 minutes
 - Cost: Free (When using the AWS Free Tier)
 
+## Architectural Diagram
+![picture](https://github.com/dani3lng/projects-aws/blob/main/aws-rekognition/label-generator/images/a1.png)
+
 ## Step by Step
 1. Create an account AWS PartyRock
 2. Provide detailed prompt about desired application
@@ -30,4 +33,3 @@ In this project, we will be building an image labels generator, using Amazon Rek
 6. Make public and share application
 
 ## Link to Application
-https://partyrock.aws/u/dani3lyg/PDG7EEnDD/HikeMatch
