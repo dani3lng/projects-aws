@@ -7,7 +7,7 @@
 In this project, we'll be using PartyRock to develop a Restaurant Recommendation App aimed at providing food recommendations based on the users preferences and desired meal type. For those not familiar with PartyRock, it's a new platform offered by AWS designed to simplify app development through the use of generative AI. 
 
 ## Steps to be performed
-1. Generating the restaurant recommendation applicationa
+1. Generating the restaurant recommendation application
 2. Changes in existing widgets
 3. Adding new widgets
 4. Publishing your app
