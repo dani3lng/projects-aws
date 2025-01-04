@@ -20,9 +20,17 @@ In this project, we'll be using PartyRock to develop a Daily Task Scheduler Appl
 1. Create an account AWS PartyRock
 2. Provide detailed prompt about desired application
 ![picture](https://github.com/dani3lng/projects-aws/blob/262b7748fbb332866115d76c1f523695df661906/daily-task/images/Screenshot%202024-06-30%20at%2022.47.55.png)
-4. Modify widgets as necessary
+3. Modify widgets as necessary
 ![picture](https://github.com/dani3lng/projects-aws/blob/262b7748fbb332866115d76c1f523695df661906/daily-task/images/Screenshot%202024-06-30%20at%2022.49.10.png)
-6. Make public and share application
+4. Make public and share application
+
+## Conclusion
+Congratulations on completing your first project in this course. Through this project, you've gained first-hand experience in using PartyRock to create a 'Daily Task Scheduler Application'.
+
+I'd encourage you to continue on with the other projects in this course. The difficulty of the projects will slowly ramp up, but don't worry - I've provided detailed step-by-step instructions for each one. You got this!
+
+## Clean-up
+Delete your application by navigating to ‘My Apps’ section and click on the 'Delete' option to delete your application.
 
 ## Link to Application
 https://partyrock.aws/u/dani3lyg/oG6cBdJFT/Daily-Task-Scheduler

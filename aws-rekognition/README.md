@@ -139,4 +139,34 @@ In this project, we will be building an image labels generator, using Amazon Rek
  - We load the image from the S3 bucket using boto3 and PIL
  - We use matplotlib to display the image and draw bounding boxes around the detected objects
 27. The main function is used to test the detect_labels function. Specifying the sample photo and bucket name, then call the detect_labels function within these parameters. (Remember to change your ‘image_file_name’ and ‘bucket_name’ to your actual configured naming.)
+
+## Conclusion
+Congratulations on completing the Image Label Generator project using AWS Rekognition. You've done an excellent job.
+
+If you enjoyed working on this project and want to explore more functionalities or ideas to expand it further, here are some recommendations for you:
+
+Adding Video Label Detection:
+Extend your project to support video label detection. You can use AWS Rekognition's video analysis capabilities to analyze videos and detect labels in each frame.
+This could be useful for applications like video content moderation or surveillance
+
+Adding Real-Time Object Label Detection:
+Enhance your project to support real-time object label detection using live camera feeds. You can use libraries like OpenCV to capture video frames from a webcam and then use AWS Rekognition to detect objects in real-time.
+
+Analyzing Facial Expressions:
+Explore AWS Rekognition's facial analysis capabilities to analyze facial expressions in images or videos.
+You can detect emotions like happiness, sadness, anger, etc., and use this information for various applications such as sentiment analysis, user feedback analysis, or personalized marketing.
+
+Identifying Faces:
+Expand your project to include face recognition capabilities.
+AWS Rekognition offers face recognition APIs that allow you to detect and recognize faces in images or videos.
+You can use this feature for applications like user authentication, access control, or personalized recommendations.
+Have fun experimenting and building new features for your project
+
+## Clean-up
+Login to the AWS Management Console and go to S3 using the search bar. Select the S3 bucket created for this project and choose the ‘Delete’ option located in the top right corner of the general-purpose buckets section.
+
+Next, navigate to Lambda from the search bar. Select the Lambda function created for this project and go to ‘Actions’ → ‘Delete’ option available in the top right corner.
+
+Lastly, navigate to IAM from the search bar. Select the User created to grant CLI access and choose the ‘Delete’ option provided in the top right corner.
+
 ## Link to Application

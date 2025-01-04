@@ -20,9 +20,9 @@ In this project, we'll be using PartyRock to develop a Restaurant Recommendation
 1. Create an account AWS PartyRock
 2. Provide detailed prompt about desired application
 ![picture](https://github.com/dani3lng/projects-aws/blob/main/food-rec/images/Screenshot%202024-06-30%20at%2022.47.55.png)
-4. Modify widgets as necessary
+3. Modify widgets as necessary
 ![picture](https://github.com/dani3lng/projects-aws/blob/main/food-rec/images/Screenshot%202024-06-30%20at%2022.49.42.png)
-6. Make public and share application
+4. Make public and share application
 
 ## Link to Application
 https://partyrock.aws/u/dani3lyg/WGkSFkMHH/Good-Eats-Restaurant-Recommendations
