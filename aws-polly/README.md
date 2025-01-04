@@ -1,6 +1,6 @@
 ## Text Narrator
 
-## Services Used
+### Services Used
 - Amazon Polly: Converts text to life like speech with customizable features.
 - AWS Management Console: Manages accounts and configures Amazon Polly.
 - AWS IAM: Ensures secure access by managing user permissions.
