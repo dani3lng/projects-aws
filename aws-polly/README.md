@@ -5,24 +5,24 @@
 - AWS Management Console: Manages accounts and configures Amazon Polly.
 - AWS IAM: Ensures secure access by managing user permissions.
 
-## Overview of Project
+### Overview of Project
 In this project, we will be developing a text narrator using Amazon Polly. A piece of text (book, article, newsletter) will be uploaded in an Amazon S3 bucket and converted to speech. The voice, pitch and speed parameters can be adjusted.
 
-## Steps to be performed
+### Steps to be performed
 1. Exploring Amazon Polly
 2. Creating an IAM role
 3. Creating an S3 Bucket
 4. Writing Lambda function code
 5. Checking the output of Amazon Polly
 
-## Estimated Time & Cost
+### Estimated Time & Cost
 - This project is estimated to take about 20-30 minutes
 - Cost: Free (When using the AWS Free Tier)
 
-## Architectural Diagram
+### Architectural Diagram
 ![picture](https://github.com/dani3lng/projects-aws/blob/main/aws-rekognition/label-generator/images/a1.png)
 
-## Step by Step
+### Step by Step
 1. Login to your AWS management console and search for Amazon Polly
 2. Choose the desired engine:
     - Neural Engine: used for lifelike and expressive speech or for natural-sounding interactions.
@@ -163,7 +163,7 @@ exports.handler = async (event) => {
 29. Check the output
 30. The audio file can be accessed by checking it in the S3 bucket and downloading it
 
-## Conclusion
+### Conclusion
 Congratulations! You have successfully completed the project of text to speech translation using Amazon Polly, Lambda and S3 bucket.
 
 What’s Next? Here is an idea that you can try out to make the project more interesting:
@@ -172,11 +172,11 @@ Create a website that will take the user input of text to be converted to speech
 
 Good luck exploring.
 
-## Clean-up
+### Clean-up
 Login to the AWS Management Console and go to S3 using the search bar. Select the S3 bucket created for this project and choose the ‘Delete’ option located in the top right corner of the general-purpose buckets section.
 
 Next, navigate to Lambda from the search bar. Select the Lambda function created for this project and go to ‘Actions’ → ‘Delete’ option available in the top right corner.
 
 Lastly, navigate to IAM from the search bar. Select the IAM role created for the Lambda function permissions and choose the ‘Delete’ option provided in the top right corner.
 
-## Link to Application
+### Link to Application
