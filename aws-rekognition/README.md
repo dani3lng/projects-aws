@@ -1,14 +1,14 @@
-### Image Labels Generator
+## Image Labels Generator
 
-## Services Used
+### Services Used
 - Amazon S3: For storing the images in the process of generating labels.
 - Amazon Rekognition: To analyze images and generate image labels.
 - AWS CLI: Interacting with AWS services through the command line interface (CLI).
 
-## Overview of Project
+### Overview of Project
 In this project, we will be building an image labels generator, using Amazon Rekognition. This is going to be a fun one. Once built, it will be able to recognize and label images. For example, if you have a photo of a cat, Amazon Recognition will be able to identify what it is, and label the image as a cat.
 
-## Steps to be performed
+### Steps to be performed
 1. Create an Amazon S3 Bucket
 2. Upload images to the S3 Bucket
 3. Install/configure the AWS Command line interface (CLI)
@@ -17,14 +17,14 @@ In this project, we will be building an image labels generator, using Amazon Rek
 6. Add main function
 7. Run python file
 
-## Estimated Time & Cost
+### Estimated Time & Cost
 - 20-30 minutes
 - Cost: Free (When using the AWS Free Tier)
 
-## Architectural Diagram
+### Architectural Diagram
 ![picture](https://github.com/dani3lng/projects-aws/blob/main/aws-rekognition/label-generator/images/a1.png)
 
-## Step by Step
+### Step by Step
 1. Log into your AWS Management Console
 2. Search for the Amazon S3 service
 3. Create a bucket with a unique name and select the region where you want the storage bucket
@@ -140,7 +140,7 @@ In this project, we will be building an image labels generator, using Amazon Rek
  - We use matplotlib to display the image and draw bounding boxes around the detected objects
 27. The main function is used to test the detect_labels function. Specifying the sample photo and bucket name, then call the detect_labels function within these parameters. (Remember to change your ‘image_file_name’ and ‘bucket_name’ to your actual configured naming.)
 
-## Conclusion
+### Conclusion
 Congratulations on completing the Image Label Generator project using AWS Rekognition. You've done an excellent job.
 
 If you enjoyed working on this project and want to explore more functionalities or ideas to expand it further, here are some recommendations for you:
@@ -162,11 +162,11 @@ AWS Rekognition offers face recognition APIs that allow you to detect and recogn
 You can use this feature for applications like user authentication, access control, or personalized recommendations.
 Have fun experimenting and building new features for your project
 
-## Clean-up
+### Clean-up
 Login to the AWS Management Console and go to S3 using the search bar. Select the S3 bucket created for this project and choose the ‘Delete’ option located in the top right corner of the general-purpose buckets section.
 
 Next, navigate to Lambda from the search bar. Select the Lambda function created for this project and go to ‘Actions’ → ‘Delete’ option available in the top right corner.
 
 Lastly, navigate to IAM from the search bar. Select the User created to grant CLI access and choose the ‘Delete’ option provided in the top right corner.
 
-## Link to Application
+### Link to Application
