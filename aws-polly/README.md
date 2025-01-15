@@ -24,6 +24,7 @@ In this project, we will be developing a text narrator using Amazon Polly. A pie
 
 ### Step by Step
 1. Login to your AWS management console and search for Amazon Polly
+![picture] ()
 2. Choose the desired engine:
     - Neural Engine: used for lifelike and expressive speech or for natural-sounding interactions.
     - Standard Engine: provides good quality speech suitable for most applications.
