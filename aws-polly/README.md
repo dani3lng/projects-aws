@@ -20,7 +20,7 @@ In this project, we will be developing a text narrator using Amazon Polly. A pie
 - Cost: Free (When using the AWS Free Tier)
 
 ### Architectural Diagram
-![picture](https://github.com/dani3lng/projects-aws/blob/main/aws-rekognition/label-generator/images/a1.png)
+![picture](https://github.com/dani3lng/projects-aws/blob/main/aws-polly/images/4A.png)
 
 ### Step by Step
 1. Login to your AWS management console and search for Amazon Polly
